@@ -14,16 +14,6 @@
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Nasywa+Ibtisamah">「 Google Me 」</a>
-    <br>
-    「 I am a Data Scientist Enthusiast from <b>Indonesia</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
 <p align="center">
  <a href="https://madebynas.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nasywa" />
